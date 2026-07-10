@@ -51,6 +51,7 @@ p{
     align-items: center;
     padding: 20px;
     flex-direction: column;
+    gap: 20px;
 }
 
 .card{
